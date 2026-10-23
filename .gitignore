@@ -1,5 +1,6 @@
 # Xojo (formerly REALbasic and Real Studio)
 Builds - */
+Build/
 *.debug
 *.debug.app
 Debug*.exe
@@ -8,3 +9,8 @@ Debug*/Debug*\ Libs
 *.rbuistate
 *.xojo_uistate
 *.obsolete*
+.DS_Store
+
+# Xojo agentic mode control files
+XojoRunProject.txt
+XojoCompileErrors.txt
